@@ -1,3 +1,0 @@
-﻿Questão 1:
-
-- A ultilização dos ponteiros é muito útil pois as variáveis podem ser acessadas em diferentes partes do programa, isso faz com que o programa seja mais otimizado, fazendo com que o programa use menos processamento, agilizando o trabalho.
