@@ -1,0 +1,50 @@
+﻿Questão 14:
+
+#include <stdio.h>
+#include <stdlib.h>
+float * ordenar(float *vet, int n){
+    int aux, i, j;
+    for(j=n-1; j>=1; j--){
+        for(i=0; i<j; i++){
+            if(vet[i]>vet[i+1]){
+                aux=vet[i];
+                    vet[i]=vet[i+1];
+                    vet[i+1]=aux;
+            }
+        }
+    }
+    return vet;
+}
+void mostrar(float *arr,int n){
+    printf("[");
+    for(int i=0;i<n;i++){
+        printf("%f ",arr[i]);
+    }
+    printf("]\n");
+}
+float * set_array(float *arr,int n){
+    float aux;
+    int i;
+    printf("\n Digite os elementos do array ");
+    for(i=0;i<n;i++){
+        scanf("%f",&aux);
+        arr[i] = aux;
+    }
+    return arr;
+}
+int main()
+{
+    float *vet;
+    int n;
+    printf("\n quanto elementos o array terá? ");
+    scanf("\n %d",&n);
+    vet = (float *) malloc(n*sizeof(float));
+    printf("\npreencha o array. ");
+    set_array(vet,n);
+    printf("\narray desordenado. ");
+    mostrar(vet,n);
+    printf("\narray ordenado. ");
+    ordenar(vet,n);
+    mostrar(vet,n);
+    return 0;
+}
