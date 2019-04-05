@@ -1,8 +1,0 @@
-﻿contador  /   valor   /     valor    /    endereco    /     endereco
-i = 0 vet[0] = 1.1*(f + 0) = 1.1&vet[0] = C4F9C400(f + 0) = C4F9C400
-i = 1 vet[1] = 2.2*(f + 1) = 2.2&vet[1] = C4F9C404(f + 1) = C4F9C404
-i = 2 vet[2] = 3.3*(f + 2) = 3.3&vet[2] = C4F9C408(f + 2) = C4F9C408
-i = 3 vet[3] = 4.4*(f + 3) = 4.4&vet[3] = C4F9C40C(f + 3) = C4F9C40C
-i = 4 vet[4] = 5.5*(f + 4) = 5.5&vet[4] = C4F9C410(f + 4) = C4F9C410
-
-Foram os resultados esperados.
