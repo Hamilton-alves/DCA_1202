@@ -1,4 +1,0 @@
-﻿Questão 9:
-
-O código 1 mostra os valores cada posição do vetor.
-O código 2 mostra o indereço de cada elemento do vetor.
