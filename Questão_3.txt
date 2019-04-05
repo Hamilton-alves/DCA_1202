@@ -1,7 +1,0 @@
-﻿Quesstão 3:
-
-1- Irá mostrar o indereço de “i” em hexadecimal.
-2- 7, que é o indereço que “p” aponta +2.
-3- 5, que é o que está dentro do indereço que “p” aponta.
-4- 15, que é 3 vezes o valor do que está no indereço que “p” aponta.
-5- 9, pega o que está dentro do indereço de “P” e soma mais 4.
