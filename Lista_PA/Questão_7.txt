@@ -1,0 +1,6 @@
+﻿
+	Questão 7:
+
+*(pulo + 2);
+A primeira expressão é a que referencia o terceiro elemeto do vetor.
+

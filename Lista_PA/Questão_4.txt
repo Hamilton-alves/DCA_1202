@@ -1,0 +1,10 @@
+﻿Questão 4:
+
+“p = i”: Errado.
+“q = &j”: Certo.
+“p = &*&i”: Certo.
+“i = (*&)j”: Errado.
+“i = *&j”: Certo.
+“i = *&*&j”: Certo.
+“q = *p": Errado.
+“i = (*p)++ + *q”: Certo.

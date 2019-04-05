@@ -1,0 +1,9 @@
+﻿Questão 8:
+
+“p = mat + 1;”: Certo, o ponteiro “p” recebe o indereço do segundo elemento do array.
+
+“p = mat++;”: Errado, o incremento está incorreto.
+
+“p = ++mat;”: Errado, incremento está incorreto.
+
+“x = (*mat)++;”: Certo, “x” recebe o que está na posição 0 do array e soma +1.

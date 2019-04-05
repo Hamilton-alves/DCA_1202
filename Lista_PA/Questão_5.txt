@@ -1,0 +1,5 @@
+﻿Questão 5: 
+
+(a) 20, (b) 29.0, (c) p, (d) e, (e) p, (f) e, (g) t, (h) 31, (i) 45, (j) 27, (l) 31, (m) 45, (n) 27.
+
+Os resultados foram os esperados. 
